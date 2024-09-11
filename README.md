@@ -50,3 +50,5 @@ We welcome contributions from the community! To add your project, tool, or resou
 
 - **[Join the Revolution: How to Set Up Your Node for GAIANET is Groundbreaking Beta Launch!](https://www.youtube.com/watch?v=7MtKELK5IoM)**: Learn what is Gaia and how to run your own node.
 
+## License
+This project is licensed under the Apache 2.0 License
