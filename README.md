@@ -29,7 +29,7 @@ We welcome contributions from the community! To add your project, tool, or resou
 
 > If you develop some tools/frameworks that other developers can use to build applications on top of a Gaia node, submit them under this category.
 
-- **[Dify](https://docs.gaianet.ai/user-guide/apps/dify)**: Configure the Dify framework using any Gaiat node as the backend LLM API. 
+- **[Dify](https://docs.gaianet.ai/user-guide/apps/dify)**: Configure the Dify framework using any Gaiat node as the backend LLM API.
 
 ### 🚀 Projects
 
@@ -37,7 +37,9 @@ We welcome contributions from the community! To add your project, tool, or resou
 
 - **[GitHub PR Review Bot](https://github.com/flows-network/github-pr-summary)**: Use Gaia nodes to summarize & review GitHub Pull Requests.
 - **[AudioPilot](https://github.com/EaglePilot/AudioPilot)**: Use Gaia nodes to control the drones.
-
+- **[Farcaster Frame Roast or Praise](https://github.com/koisose/ai-roast-praise)**: Farcaster frame to roast or praise farcaster user using gaianet ai.
+- **[Farcaster Composer Action Roast or Praise](https://github.com/koisose/ai-gaianet-composer)**: Farcaster composer action to roast or praise farcaster user using gaianet ai.
+- **[Git Auto Commit Generator](https://github.com/koisose/auto-commit-gaia)**: Create git commit message using gaianet ai.
 
 ### 📖 Tutorials
 > Any articles about Gaia. Please add the title, link, and brief instructions for your article.
