@@ -58,6 +58,7 @@ We welcome contributions from the community! To add your project, tool, or resou
 - **[Farcaster Composer Action Roast or Praise](https://github.com/koisose/ai-gaianet-composer)**: Farcaster composer action to roast or praise farcaster user using gaianet ai.
 - **[Git Auto Commit Generator](https://github.com/koisose/auto-commit-gaia)**: Create git commit message using gaianet ai.
 - **[Living knowledge telegram bot](https://github.com/koisose/living-knowledge-telegram-bot)** using gaianet to search the web and answer question based on the data from the web via telegram bot
+- **[Farcastle attack reason](https://github.com/koisose/farcastle-composer)** using gaianet i create an attack reason for farcaster based text game farcastle
 
 ### 📖 Tutorials
 > Any articles about Gaia. Please add the title, link, and brief instructions for your article.
