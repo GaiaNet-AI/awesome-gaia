@@ -57,6 +57,9 @@ We welcome contributions from the community! To add your project, tool, or resou
 - **[Farcaster Frame Roast or Praise](https://github.com/koisose/ai-roast-praise)**: Farcaster frame to roast or praise farcaster user using gaianet ai.
 - **[Farcaster Composer Action Roast or Praise](https://github.com/koisose/ai-gaianet-composer)**: Farcaster composer action to roast or praise farcaster user using gaianet ai.
 - **[Git Auto Commit Generator](https://github.com/koisose/auto-commit-gaia)**: Create git commit message using gaianet ai.
+- **[Escrow Guild](https://github.com/shreyan001/EscrowGuild)**: An AI-powered platform that automates secure, one-time smart contract generation for Escrow trades.
+
+  
 
 ### 📖 Tutorials
 > Any articles about Gaia. Please add the title, link, and brief instructions for your article.
