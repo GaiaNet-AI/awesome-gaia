@@ -63,6 +63,7 @@ We welcome contributions from the community! To add your project, tool, or resou
 - **[NFT Ticketing](https://github.com/Ayushsingla1/Ticketing-web3)**: NFT based Ticketing powered with a gaia node chatbot.
 - **[Gaianet Reels Generator](https://github.com/internettrashh/gianet-AI-video-generator)**: Multi-Agent Content Generation System using gaianet ai.
 - **[Escrow Guild](https://github.com/shreyan001/EscrowGuild)**: An AI-powered platform that automates secure, one-time smart contract generation for Escrow trades.
+- **[lazyA](https://github.com/apneduniya/lazya)**: An agent which help you to execute actions on apps like Youtube, Gmail, GitHub, etc via natural language.
 
 
 ### 📖 Tutorials
