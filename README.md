@@ -62,6 +62,7 @@ We welcome contributions from the community! To add your project, tool, or resou
 - **[Gaiaverse 24/7 AI Agent On Call](https://github.com/DeImOs-Sj/GAIAVERSE)**: Your 24/7 AI assistant on call with personalized response for every query.
 - **[NFT Ticketing](https://github.com/Ayushsingla1/Ticketing-web3)**: NFT based Ticketing powered with a gaia node chatbot.
 - **[Gaianet Reels Generator](https://github.com/internettrashh/gianet-AI-video-generator)**: Multi-Agent Content Generation System using gaianet ai.
+- **[Escrow Guild](https://github.com/shreyan001/EscrowGuild)**: An AI-powered platform that automates secure, one-time smart contract generation for Escrow trades.
 
 
 ### 📖 Tutorials
