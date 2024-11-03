@@ -60,6 +60,7 @@ We welcome contributions from the community! To add your project, tool, or resou
 - **[Living knowledge telegram bot](https://github.com/koisose/living-knowledge-telegram-bot)** using gaianet to search the web and answer question based on the data from the web via telegram bot
 - **[Farcastle attack reason](https://github.com/koisose/farcastle-composer)** using gaianet i create an attack reason for farcaster based text game farcastle
 - **[Gaiaverse 24/7 AI Agent On Call](https://github.com/DeImOs-Sj/GAIAVERSE)**: Your 24/7 AI assistant on call with personalized response for every query.
+- **[NFT Ticketing](https://github.com/Ayushsingla1/Ticketing-web3)**: NFT based Ticketing powered with a gaia node chatbot.
 
 ### 📖 Tutorials
 > Any articles about Gaia. Please add the title, link, and brief instructions for your article.
