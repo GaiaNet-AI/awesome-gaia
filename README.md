@@ -89,6 +89,7 @@ We welcome contributions from the community! To add your project, tool, or resou
 - **[Eliza Character Generator](https://elizagen.howieduhzit.best/)**: A comprehensive web-based tool for creating, managing, and customizing AI character definitions. [➡️ Try it!](https://elizagen.howieduhzit.best/)
 - **[Verifiable LLM Inference AVS](https://github.com/motherdao-ai/MotherDAO-Verifiable-Agent)**: This repository demonstrates how to implement verifiable inference from a Gaia node using the Othentic Stack, developed by MotherDAO.
 - **[AgentKit Bot](https://t.me/agentkit_bot)**: A Telegram bot that allows you to interact with your own wallet through text and voice messages using Gaia. [➡️ Try it!](https://t.me/agentkit_bot)
+- **[Chatbot Template](https://github.com/rather-labs/chat-bot-template)**: A minimalistic chatbot that uses a public gaianode to fetch conmarketcap's information.
 
 [🔼 Back to top](#table-of-contents)
 
