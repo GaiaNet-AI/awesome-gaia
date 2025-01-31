@@ -90,7 +90,11 @@ We welcome contributions from the community! To add your project, tool, or resou
 - **[Verifiable LLM Inference AVS](https://github.com/motherdao-ai/MotherDAO-Verifiable-Agent)**: This repository demonstrates how to implement verifiable inference from a Gaia node using the Othentic Stack, developed by MotherDAO.
 - **[AgentKit Bot](https://t.me/agentkit_bot)**: A Telegram bot that allows you to interact with your own wallet through text and voice messages using Gaia. [➡️ Try it!](https://t.me/agentkit_bot)
 - **[Chatbot Template](https://github.com/rather-labs/chat-bot-template)**: A minimalistic chatbot that uses a public gaianode to fetch conmarketcap's information.
-
+- **[Use Gaia with Lit Protocol's Agent Wallet](https://github.com/LIT-Protocol/agent-wallet/tree/main/packages/aw-subagent-gaia/)**: Introducing Gaia Tool Selector for Lit Protocol's Agent Wallet - a secure bridge between natural language and Web3 actions powered by open-source LLMs.
+- **[Autonomous Token Deployer on Celo](https://x.com/HarishKotra/status/1878729293913895105)**: AI Agent that autonomously deploys tokens on 
+Celo. [➡️ Deploy your own!](https://github.com/harishkotra/celo-token-agent)
+- **[Launch Meme Coins on Base](https://x.com/HarishKotra/status/1878729293913895105)**: Generate and deploy meme tokens automatically using Gaia's AI Agent for creative naming and tokenomics! Built for Base Sepolia testnet, but easily adaptable to other networks. [➡️ Deploy your own!](https://github.com/harishkotra/gaia-meme-coin-generator)
+- 
 [🔼 Back to top](#table-of-contents)
 
 ### 📖 Tutorials
@@ -141,7 +145,13 @@ We welcome contributions from the community! To add your project, tool, or resou
 
 - **[CodeGPT + Gaia: Your AI-Powered Pair Programming Partner!](https://www.youtube.com/watch?v=JdIB7g01zBM)**: You can easily configure CodeGPT to use Gaia Nodes as your LLM backend.
 
-- [How to Supercharge Cursor IDE with Your Gaia Node: A Complete Guide!](https://www.youtube.com/watch?v=ve_bEZL_rYQ): Integrating Gaia AI with Cursor IDE offers a powerful, secure, and customized coding experience.
+- **[How to Supercharge Cursor IDE with Your Gaia Node: A Complete Guide!](https://www.youtube.com/watch?v=ve_bEZL_rYQ)**: Integrating Gaia AI with Cursor IDE offers a powerful, secure, and customized coding experience.
+
+- **[Create a Telegram Bot using Gaia Node & Eliza](https://x.com/HarishKotra/status/1882760259065745529)**: Learn how to create a Telegram bot, integrating it with Eliza, and customizing it with your specialized knowledge. Follow along to make your AI agent behave just the way you want.
+
+- **[Create a Discord Bot using Gaia Node & Eliza](https://x.com/HarishKotra/status/1883160396573348177)**: Set up Gaia node as your LLM for an autonomous AI agent in Discord with Eliza framework. Learn how to create a developer token, adding a bot to your server using the Eliza framework.
+
+- **[Run DeepSeek-R1 Locally](https://x.com/HarishKotra/status/1882403316640161855)**: Truly run DeepSeek-R1 locally on your machine using a Gaia node and here's a video on how to do it in under 10 minutes!
 
 
 [🔼 Back to top](#table-of-contents)
