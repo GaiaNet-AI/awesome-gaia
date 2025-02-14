@@ -94,6 +94,7 @@ We welcome contributions from the community! To add your project, tool, or resou
 - **[Autonomous Token Deployer on Celo](https://x.com/HarishKotra/status/1878729293913895105)**: AI Agent that autonomously deploys tokens on 
 Celo. [➡️ Deploy your own!](https://github.com/harishkotra/celo-token-agent)
 - **[Launch Meme Coins on Base](https://x.com/HarishKotra/status/1878729293913895105)**: Generate and deploy meme tokens automatically using Gaia's AI Agent for creative naming and tokenomics! Built for Base Sepolia testnet, but easily adaptable to other networks. [➡️ Deploy your own!](https://github.com/harishkotra/gaia-meme-coin-generator)
+- **[Minerva](https://github.com/MinervaGov/minerva_main)**: Create your own AI agents who think like you and take decisions on DAO governance voting for you when you are away. Never miss another proposal and help your community grow with [Minerva](https://github.com/MinervaGov/minerva_main).
 - 
 [🔼 Back to top](#table-of-contents)
 
