@@ -95,7 +95,8 @@ We welcome contributions from the community! To add your project, tool, or resou
 Celo. [➡️ Deploy your own!](https://github.com/harishkotra/celo-token-agent)
 - **[Launch Meme Coins on Base](https://x.com/HarishKotra/status/1878729293913895105)**: Generate and deploy meme tokens automatically using Gaia's AI Agent for creative naming and tokenomics! Built for Base Sepolia testnet, but easily adaptable to other networks. [➡️ Deploy your own!](https://github.com/harishkotra/gaia-meme-coin-generator)
 - **[Minerva](https://github.com/MinervaGov/minerva_main)**: Create your own AI agents who think like you and take decisions on DAO governance voting for you when you are away. Never miss another proposal and help your community grow with [Minerva](https://github.com/MinervaGov/minerva_main).
-- 
+- **[ResellChain](https://github.com/surajgjadhav/ResellChain)**: **ResellChain** is a decentralized marketplace leveraging **Gaia LLM** and **Eliza Framework** to provide **intelligent price predictions** and **personalized product recommendations**. By analyzing user queries and marketplace data, it ensures fair pricing and seamless discovery of resell products.
+
 [🔼 Back to top](#table-of-contents)
 
 ### 📖 Tutorials
