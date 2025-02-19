@@ -11,6 +11,7 @@ Gaia empowers developers and enthusiasts to harness the power of large language 
     - [⛏️ Tools \& Integrations](#️-tools--integrations)
     - [🤖 Agents](#-agents)
     - [🚀 Projects](#-projects)
+    - [💻 Hackathon Buidls](#-hackathon-buidls)
     - [📖 Tutorials](#-tutorials)
     - [🎬 Videos](#-videos)
   - [License](#license)
@@ -96,6 +97,22 @@ Celo. [➡️ Deploy your own!](https://github.com/harishkotra/celo-token-agent)
 - **[Launch Meme Coins on Base](https://x.com/HarishKotra/status/1878729293913895105)**: Generate and deploy meme tokens automatically using Gaia's AI Agent for creative naming and tokenomics! Built for Base Sepolia testnet, but easily adaptable to other networks. [➡️ Deploy your own!](https://github.com/harishkotra/gaia-meme-coin-generator)
 - **[Minerva](https://github.com/MinervaGov/minerva_main)**: Create your own AI agents who think like you and take decisions on DAO governance voting for you when you are away. Never miss another proposal and help your community grow with [Minerva](https://github.com/MinervaGov/minerva_main).
 - **[ResellChain](https://github.com/surajgjadhav/ResellChain)**: **ResellChain** is a decentralized marketplace leveraging **Gaia LLM** and **Eliza Framework** to provide **intelligent price predictions** and **personalized product recommendations**. By analyzing user queries and marketplace data, it ensures fair pricing and seamless discovery of resell products.
+
+[🔼 Back to top](#table-of-contents)
+
+### 💻 Hackathon Buidls
+
+| Project Name | Video Walkthrough | Showcase Link  | Description | Hackathon
+|--|--|--|--|--|
+| Clash of Clout | [Watch Video](https://stream.mux.com/238DeobBzbNTMqDdyZuP1cUsfTAqSgUHkyQzB4df2II/high.mp4) | [View Project Details](https://ethglobal.com/showcase/clash-of-clout-qedfz) | Clash of Clout – The ultimate crypto meme battle! 🚀 🔥 AI-generated memes based on crypto trends. 📊 Stake, vote, and win rewards. 🏆 Meme. Compete. Earn. Join the clash! ⚡ | [Agentic Ethereum](https://ethglobal.com/events/agents)  |
+| Egg AI | [Watch Video](https://stream.mux.com/lbOhmtnL8mnkyS01ozXqHO8REIeXQEO12zINfdkTGZhY/high.mp4) | [View Project Details](https://ethglobal.com/showcase/egg-ai-atkir)  | autonomous and specialized ai agent that helps you "follow trade" trade analysts (ai that does DYOR for you) | [Agentic Ethereum](https://ethglobal.com/events/agents) |
+| Agentic Marketing | [Watch Video](https://stream.mux.com/558nA37WEmoZ6UgMe55eYzuLKirPfJvvohS6Mwovhyw/high.mp4) | [View Project Details](https://ethglobal.com/showcase/agentic-marketing-4gexw) | TweetBounty: The First AI-Powered Social Media Marketing Protocol | [Agentic Ethereum](https://ethglobal.com/events/agents) |
+| Gintonic | [Watch Video](https://stream.mux.com/TiI01ZWOva9w5nHBGnIO00vYN3OUXqVVnZpIECC02UgBcA/high.mp4)  | [View Project Details](https://ethglobal.com/showcase/gintonic-6inby) | Gintonic Orchestration is an AI-driven platform that streamlines the creation and management of AI agents, enhancing automation and efficiency in various tasks and projects. | [Agentic Ethereum](https://ethglobal.com/events/agents) |
+| AiVS | [Watch Video](https://stream.mux.com/etuS3fOoLV7ZX4IoGEL81hBYHcldlg6ykXwTNhgLVtI/high.mp4)  | [View Project Details](https://ethglobal.com/showcase/aivs-o2t7f)  | A multi AI Agent framework that utilizes EigenLayer AVS for a distributed justice system | [Agentic Ethereum](https://ethglobal.com/events/agents) |
+| Deep Rewarding | [Watch Video](https://stream.mux.com/bu94pF2pOGcrj7skhuBgWBLtwLGdhBSZS9wxznMmswc/high.mp4) | [View Project Details](https://ethglobal.com/showcase/deep-rewarding-8w686) | Collective fair rewarding mechanism for decentralized community inspired by Deep Funding | [Agentic Ethereum](https://ethglobal.com/events/agents) | 
+| IP Defender Agent | [Watch Video](https://stream.mux.com/8by1VQWp5oCJmZt5jeovVq2QTJvKzFB02s51iGSG5Qaw/high.mp4)  | [View Project Details](https://ethglobal.com/showcase/ip-defender-agent-5p8yj)  | IP Defender Agent help you identify the IP of any content online by verifying it and minting new IP | [Agentic Ethereum](https://ethglobal.com/events/agents) |
+| PiETHon | [Watch Video](https://stream.mux.com/SFOibq99iNnNiiGIxquNE6I4DkpGQQnIPoS024B7QWuA/high.mp4)  | [View Project Details](https://ethglobal.com/showcase/piethon-nnd9d ) | 🐍⚡ PiETHON – A plug-and-play device that makes any vehicle autonomous & blockchain-powered! Built on Raspberry Pi & Ethereum, it automates insurance claims, carbon credit tracking, and real-time decision-making, bringing transparency, efficiency, and sustainability to mobility. | [Agentic Ethereum](https://ethglobal.com/events/agents) |
+
 
 [🔼 Back to top](#table-of-contents)
 
