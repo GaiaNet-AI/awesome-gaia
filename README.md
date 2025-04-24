@@ -188,7 +188,7 @@ Awesome Gaia is an open-source project, and contributions from the community are
 - **Submitting Pull Requests:** We welcome code contributions! If you've implemented a bug fix or a new feature, submit a pull request following our [Contribution Guidelines](https://github.com/Gaianet-AI/gaianet-domain/blob/main/CONTRIBUTING.md). Please ensure your code adheres to the project's style and includes relevant tests.
 - **Community Support:** Assist other builders by answering questions on GitHub issues or our [Telegram builders' Community](https://t.me/+a0bJInD5lsYxNDJl).
 
-Please take a look at our [Code of Conduct](https://github.com/Gaianet-AI/gaianet-domain/blob/main/CODE_OF_CONDUCT.md) to ensure a positive and inclusive environment for everyone.
+Please take a look at our [Code of Conduct](https://github.com/Gaianet-AI/awesome-gaia/blob/main/CODE_OF_CONDUCT.md) to ensure a positive and inclusive environment for everyone.
 
 ## License
 This project is licensed under the [Apache 2.0 License](https://github.com/GaiaNet-AI/awesome-gaia/blob/main/LICENSE)
