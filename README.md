@@ -45,6 +45,9 @@ We welcome contributions from the community! To add your project, tool, or resou
 - **[AgentZero](https://docs.gaianet.ai/user-guide/apps/agent-zero)**: Configure the AgentZero framework using any Gaia node as the backend LLM API.
 - **[CodeGPT](https://docs.gaianet.ai/user-guide/apps/codegpt)**: Configure the CodeGPT framework using any Gaia node as the backend LLM API.
 - **[Continue](https://docs.gaianet.ai/user-guide/apps/continue)**: Configure the Continue framework using any Gaia node as the backend LLM API.
+- **[Agentkit](https://github.com/tobySolutions/agentkit-gaia-setup)**: Learn how to use the CDP AgentKit with Gaia.
+- **[Metamask DTK](https://github.com/meowyx/metamask-gaia-starter)**: Configure Metamask DTK with Gaia.
+
 
 [🔼 Back to top](#table-of-contents)
 
@@ -59,6 +62,10 @@ We welcome contributions from the community! To add your project, tool, or resou
 - **[Digital Twin of Dave Krugman](https://dave.gaianet.network/)**
 - **[Ethereum Agent](https://ethereum.gaia.domains/chatbot-ui/index.html)**: An agent trained on Ethereum, EIP + ERC standards.
 - **[Coder Agent](https://coder.gaia.domains)**: An agent that's trained in RUST and is an expert in RUST.
+- **[Github PR-review agent](https://github.com/tobySolutions/github-pr-review-agent)**: A GitHub PR reviewer agent built on Gaia.
+- **[Web3 voting agent](https://github.com/meowyx/gaia-web3-voting-starter)**: A Web3 voting agent on Gaia.
+- **[Research agent](https://github.com/meowyx/research-agent)**: Research agent built entirely on Gaia.
+- **[Gaia frontend template](https://github.com/meowyx/gaia-agent-starter)**: A Gaia agent frontend template.
 
 ### 🚀 Projects
 
