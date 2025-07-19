@@ -8,7 +8,7 @@ Gaia empowers developers and enthusiasts to harness the power of large language 
   - [About Gaia](#about-gaia)
   - [How to Contribute](#how-to-contribute)
   - [Categories](#categories)
-    - [⛏️ Tools \& Integrations](#️-tools--integrations)
+    - [⛏️ Tools & Integrations](#️-tools--integrations)
     - [🤖 Agents](#-agents)
     - [🚀 Projects](#-projects)
     - [💻 Hackathon Buidls](#-hackathon-buidls)
@@ -19,13 +19,7 @@ Gaia empowers developers and enthusiasts to harness the power of large language 
 ## About Gaia
 Gaia allows you to run large language models (LLMs) locally on your hardware with the flexibility of using an OpenAI-compatible API. It’s an open-source solution for those looking to have more control over their AI infrastructure while enjoying the same API integrations widely used by OpenAI models.
 
-For more information, check out the official [Gaia documentation](https://docs.gaianet.ai/).
-
-## How to Contribute
-We welcome contributions from the community! To add your project, tool, or resource:
-1. Fork this repository.
-2. Add your contribution under the appropriate category in the `README.md`.
-3. Submit a pull request with a clear description of your contribution.
+For more information, check out the official [Gaia documentation](https://docs.gaianet.ai/?ref=awesome-gaia).
 
 ## Categories
 ### ⛏️ Tools & Integrations
@@ -45,8 +39,18 @@ We welcome contributions from the community! To add your project, tool, or resou
 - **[AgentZero](https://docs.gaianet.ai/user-guide/apps/agent-zero)**: Configure the AgentZero framework using any Gaia node as the backend LLM API.
 - **[CodeGPT](https://docs.gaianet.ai/user-guide/apps/codegpt)**: Configure the CodeGPT framework using any Gaia node as the backend LLM API.
 - **[Continue](https://docs.gaianet.ai/user-guide/apps/continue)**: Configure the Continue framework using any Gaia node as the backend LLM API.
-- **[Agentkit](https://github.com/tobySolutions/agentkit-gaia-setup)**: Learn how to use the CDP AgentKit with Gaia.
+- **[Coinbase Agentkit](https://github.com/tobySolutions/agentkit-gaia-setup)**: Learn how to use the CDP AgentKit with Gaia.
 - **[Metamask DTK](https://github.com/meowyx/metamask-gaia-starter)**: Configure Metamask DTK with Gaia.
+- **[Weaviate Vector Database](https://github.com/GaiaNet-AI/gaia-cookbook/tree/main/python/gaia-weaviate)**: Weaviate (we-vee-eight) is an open-source, AI-native vector database. Use this documentation to get started with Weaviate and learn how to get the most out of Weaviate's features.
+- **[ChromaDB Vector Database](https://github.com/GaiaNet-AI/gaia-cookbook/tree/main/python/gaia-chromadb)**: Chroma is an open-source vector database that is lightweight and easy to get started with. It's designed for simplicity and can run in-memory or persist data to disk, making it ideal for local development, prototyping, and applications where a full-fledged distributed vector database might be overkill.
+- **[Agno (previously Phidata) Framework](https://github.com/GaiaNet-AI/gaia-cookbook/tree/main/python/agno)**: Agno is a full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
+- **[Microsoft's AutoGen Framework](https://github.com/GaiaNet-AI/gaia-cookbook/tree/main/python/autogen)**: AutoGen is Microsoft's framework for creating multi-agent AI systems where different AI "experts" can collaborate on complex tasks.
+- **[Google's ADK Framework](https://github.com/GaiaNet-AI/gaia-cookbook/tree/main/python/google-adk)**: Agent Development Kit (ADK) is a flexible and modular framework for developing and deploying AI agents. While optimized for Gemini and the Google ecosystem, ADK is model-agnostic, deployment-agnostic, and is built for compatibility with other frameworks. ADK was designed to make agent development feel more like software development, to make it easier for developers to create, deploy, and orchestrate agentic architectures that range from simple tasks to complex workflows.
+- **[OpenAI's Agents SDK](https://github.com/GaiaNet-AI/gaia-cookbook/tree/main/python/openai-agents-sdk)**: The OpenAI Agents SDK enables you to build agentic AI apps in a lightweight, easy-to-use package with very few abstractions. It's a production-ready upgrade of our previous experimentation for agents, Swarm.
+- **[Nubila AI](https://github.com/GaiaNet-AI/gaia-cookbook/tree/main/javascript-typescript/gaia-nubila)**: This simple web application allows you to check the current weather or forecast for a location using natural language queries (e.g., "Forecast for Tokyo", "Is it raining in Seattle?"). It leverages the Gaia Language Model (via an OpenAI compatible endpoint) to understand your request and the Nubila Weather API to fetch the actual weather data.
+- **[Neura by Ankr](https://github.com/GaiaNet-AI/gaia-cookbook/tree/main/javascript-typescript/gaia-ankr-chat)**: This an example application demonstrating how you can combine the power of Gaia's OpenAI-compatible API (that's your own self-hosted or managed AI node!) with Neura's comprehensive blockchain data APIs. 
+- **[Zerion API](https://github.com/GaiaNet-AI/gaia-cookbook/tree/main/javascript-typescript/gaia-zerion-demo)**: A powerful AI-driven crypto assistant powered by Gaia AI and Zerion API. This project showcases how AI can interact with Web3 APIs to provide real-time portfolio insights.
+- **[Supavec RAG](https://github.com/GaiaNet-AI/gaia-cookbook/tree/main/javascript-typescript/gaia-supavec)**: A powerful document question-answering system that combines Supavec's RAG capabilities with Gaia's language understanding.
 
 
 [🔼 Back to top](#table-of-contents)
@@ -66,6 +70,9 @@ We welcome contributions from the community! To add your project, tool, or resou
 - **[Web3 voting agent](https://github.com/meowyx/gaia-web3-voting-starter)**: A Web3 voting agent on Gaia.
 - **[Research agent](https://github.com/meowyx/research-agent)**: Research agent built entirely on Gaia.
 - **[Gaia frontend template](https://github.com/meowyx/gaia-agent-starter)**: A Gaia agent frontend template.
+- **[Minecraft Bot using Gaia](https://github.com/GaiaNet-AI/gaia-cookbook/tree/main/javascript-typescript/minecraft-gaia-agent)**: A Minecraft bot powered by an LLM with tool-calling capabilities (via LangChain), built in TypeScript using mineflayer. This bot can chat, follow players, mine, build, and intelligently respond to natural language prompts using structured tool execution.
+- **[LangChain ReAct Agent using Gaia]()**: This repository demonstrates how to create a ReAct agent (Reasoning and Acting) using LangChain. The agent can use tools to answer questions, such as fetching weather information.
+
 
 ### 🚀 Projects
 
@@ -101,7 +108,7 @@ We welcome contributions from the community! To add your project, tool, or resou
 - **[Use Gaia with Lit Protocol's Agent Wallet](https://github.com/LIT-Protocol/agent-wallet/tree/main/packages/aw-subagent-gaia/)**: Introducing Gaia Tool Selector for Lit Protocol's Agent Wallet - a secure bridge between natural language and Web3 actions powered by open-source LLMs.
 - **[Autonomous Token Deployer on Celo](https://x.com/HarishKotra/status/1878729293913895105)**: AI Agent that autonomously deploys tokens on 
 Celo. [➡️ Deploy your own!](https://github.com/harishkotra/celo-token-agent)
-- **[Launch Meme Coins on Base](https://x.com/HarishKotra/status/1878729293913895105)**: Generate and deploy meme tokens automatically using Gaia's AI Agent for creative naming and tokenomics! Built for Base Sepolia testnet, but easily adaptable to other networks. [➡️ Deploy your own!](https://github.com/harishkotra/gaia-meme-coin-generator)
+- **[Launch Meme Coins on Base](https://x.com/HarishKotra/status/1860694953447375003)**: Generate and deploy meme tokens automatically using Gaia's AI Agent for creative naming and tokenomics! Built for Base Sepolia testnet, but easily adaptable to other networks. [➡️ Deploy your own!](https://github.com/harishkotra/gaia-meme-coin-generator)
 - **[Minerva](https://github.com/MinervaGov/minerva_main)**: Create your own AI agents who think like you and take decisions on DAO governance voting for you when you are away. Never miss another proposal and help your community grow with [Minerva](https://github.com/MinervaGov/minerva_main).
 - **[ResellChain](https://github.com/surajgjadhav/ResellChain)**: **ResellChain** is a decentralized marketplace leveraging **Gaia LLM** and **Eliza Framework** to provide **intelligent price predictions** and **personalized product recommendations**. By analyzing user queries and marketplace data, it ensures fair pricing and seamless discovery of resell products.
 
@@ -181,7 +188,13 @@ Celo. [➡️ Deploy your own!](https://github.com/harishkotra/celo-token-agent)
 - **[Create a Discord Bot using Gaia Node & Eliza](https://x.com/HarishKotra/status/1883160396573348177)**: Set up Gaia node as your LLM for an autonomous AI agent in Discord with Eliza framework. Learn how to create a developer token, adding a bot to your server using the Eliza framework.
 
 - **[Run DeepSeek-R1 Locally](https://x.com/HarishKotra/status/1882403316640161855)**: Truly run DeepSeek-R1 locally on your machine using a Gaia node and here's a video on how to do it in under 10 minutes!
-
+- **[x402 Payments for Gaia Nodes](https://youtu.be/W2B_8f4zMwM)**: This project demonstrates how to create a paid API service that proxies requests to a Gaia Node's API endpoint, using the x402 protocol for per-request payments on EVM-compatible chains like Base Sepolia.
+- **[Run thinking models on Gaia Nodes](https://youtu.be/e7N8583IzQM)**: Gaia nodes now  have the ability to run thinking models which give node operators and builders the flexibility to choose the model's thinking behavior based on the use-case you're building with Gaia nodes.
+- **[What are Gaia Domains](https://www.youtube.com/watch?v=TwKdcDnmwpw)**: Learn what Gaia Domains are and how they allow you to scale decentralized AI inference.
+- **[Run DeepSeek-R1-0528-Qwen3-8B Locally with Gaia](https://www.youtube.com/watch?v=bgiwr1_xNSk)**: DeepSeek-R1-0528-Qwen3-8B is an exciting model that was created by distilling the chain-of-thought from DeepSeek-R1-0528 to post-train Qwen3 8B Base. Learn how to leverage this incredible AI right from your desktop.
+- **[Osmosis-Structure-0.6B: Master Structured AI Output Locally](https://www.youtube.com/watch?v=C9mS5eAFovU)**: Discover Osmosis-Structure-0.6B, a specialized Small Language Model (SLM) engineered for generating precise, structured output. Despite its compact 0.6B parameter size, this model delivers exceptional performance in extracting structured information when integrated with supported frameworks.
+- **[Integrate Public Gaia Domains](https://www.youtube.com/watch?v=WribfvtVZFA)**: This video, led by Tobi, demonstrates how to integrate these domains for AI agents, applications, chatbots, and frameworks, or even interact directly via the Gaia chat UI.
+- **[Weaviate + Gaia | Demo](https://www.youtube.com/watch?v=zf9_WFhySho)**: This video demonstrates the output of a production-ready Retrieval Augmented Generation (RAG) system using Weaviate and Gaia using real world data.
 
 [🔼 Back to top](#table-of-contents)
 
