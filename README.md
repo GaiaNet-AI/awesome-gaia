@@ -71,7 +71,7 @@ For more information, check out the official [Gaia documentation](https://docs.g
 - **[Research agent](https://github.com/meowyx/research-agent)**: Research agent built entirely on Gaia.
 - **[Gaia frontend template](https://github.com/meowyx/gaia-agent-starter)**: A Gaia agent frontend template.
 - **[Minecraft Bot using Gaia](https://github.com/GaiaNet-AI/gaia-cookbook/tree/main/javascript-typescript/minecraft-gaia-agent)**: A Minecraft bot powered by an LLM with tool-calling capabilities (via LangChain), built in TypeScript using mineflayer. This bot can chat, follow players, mine, build, and intelligently respond to natural language prompts using structured tool execution.
-- **[LangChain ReAct Agent using Gaia]()**: This repository demonstrates how to create a ReAct agent (Reasoning and Acting) using LangChain. The agent can use tools to answer questions, such as fetching weather information.
+- **[LangChain ReAct Agent using Gaia](https://github.com/GaiaNet-AI/gaia-cookbook/tree/main/javascript-typescript/gaianet-langraph-agent)**: This repository demonstrates how to create a ReAct agent (Reasoning and Acting) using LangChain. The agent can use tools to answer questions, such as fetching weather information.
 
 
 ### 🚀 Projects
