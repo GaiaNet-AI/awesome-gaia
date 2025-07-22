@@ -64,6 +64,8 @@ For more information, check out the official [Gaia documentation](https://docs.g
 - **[Digital Twin of gmoney](https://gmoney.gaianet.network/)**
 - **[Digital Twin of Lex Sokolin](https://lex.gaianet.network/)**
 - **[Digital Twin of Dave Krugman](https://dave.gaianet.network/)**
+- **[Chemistry Assistant](https://chemistry.gaia.domains)**
+- **[Pastor Insights](https://pastorinsights.ai)**: Newsletter to receive Bible-based insights of news events.
 - **[Ethereum Agent](https://ethereum.gaia.domains/chatbot-ui/index.html)**: An agent trained on Ethereum, EIP + ERC standards.
 - **[Coder Agent](https://coder.gaia.domains)**: An agent that's trained in RUST and is an expert in RUST.
 - **[Github PR-review agent](https://github.com/tobySolutions/github-pr-review-agent)**: A GitHub PR reviewer agent built on Gaia.
@@ -84,6 +86,7 @@ For more information, check out the official [Gaia documentation](https://docs.g
 - **[Cryptobot](https://cryptobot-on-gaia.pages.dev/)**: Get real-time Crytp price using a Gaia node. [➡️ Try it!](https://cryptobot-on-gaia.pages.dev/)
 - **[LlamaCoder](https://llamacoder.gaianet.ai/)**: Leverage a Gaia node to hcreate and enhance React/Vue/HTML applications. [➡️ Try it!](https://llamacoder.gaianet.ai/)
 - **[LlamaTutor](https://llamatutor.gaianet.ai/)**: Learn new skills using a Gaia node. [➡️ Try it!](https://llamatutor.gaianet.ai/)
+- **[VideoLangua](https://videolangua.com/)**: Translate any video to your language. Upload any video file and let us translate it for you! You can choose to dub (voice-over) the video with the translated language, or add closed-captions while preserving the original soundtrack. Currently available in English to Chinese, English to Japanese, English to Korean, Chinese to English, Japanese to English.
 - **[Farcaster Frame Roast or Praise](https://github.com/koisose/ai-roast-praise)**: Farcaster frame to roast or praise farcaster user using gaianet ai.
 - **[Farcaster Composer Action Roast or Praise](https://github.com/koisose/ai-gaianet-composer)**: Farcaster composer action to roast or praise farcaster user using gaianet ai.
 - **[Git Auto Commit Generator](https://github.com/koisose/auto-commit-gaia)**: Create git commit message using gaianet ai.
