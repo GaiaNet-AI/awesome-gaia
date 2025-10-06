@@ -58,6 +58,7 @@ For more information, check out the official [Gaia documentation](https://docs.g
 - **[Autonomys](https://github.com/harishkotra/gaia-autonomys-starter-kit)**: A Node.js application that demonstrates integration between Gaia Nodes, Auto Drive from Autonomys and uses Autonomys EVM (tAI3) for payments.
 - **[Arweave](https://github.com/harishkotra/gaia-arweave-agent-demo)**: This project demonstrates how to build AI agents that can interact with the Arweave using the `arweave-storage-sdk` and a custom Gaia node.
 - **[Dia](https://github.com/harishkotra/gaia-dia)**: This project is an exciting demonstration of how Artificial Intelligence can answer your financial questions by intelligently interacting with real-time data sources. It functions as your personal financial analyst, equipped with access to a vast, constantly updated financial data library.
+- **[Redis for AI](https://github.com/harishkotra/gaia-redis)**: This repository contains two examples demonstrating how to integrate a Gaia Node (providing an OpenAI-compatible API for local LLMs) with Redis to enhance your AI applications.
 
 
 [🔼 Back to top](#table-of-contents)
@@ -81,6 +82,7 @@ For more information, check out the official [Gaia documentation](https://docs.g
 - **[Gaia frontend template](https://github.com/meowyx/gaia-agent-starter)**: A Gaia agent frontend template.
 - **[Minecraft Bot using Gaia](https://github.com/GaiaNet-AI/gaia-cookbook/tree/main/javascript-typescript/minecraft-gaia-agent)**: A Minecraft bot powered by an LLM with tool-calling capabilities (via LangChain), built in TypeScript using mineflayer. This bot can chat, follow players, mine, build, and intelligently respond to natural language prompts using structured tool execution.
 - **[LangChain ReAct Agent using Gaia](https://github.com/GaiaNet-AI/gaia-cookbook/tree/main/javascript-typescript/gaianet-langraph-agent)**: This repository demonstrates how to create a ReAct agent (Reasoning and Acting) using LangChain. The agent can use tools to answer questions, such as fetching weather information.
+- **[Digital Twin of Ray Dalio](https://github.com/harishkotra/ray-dalio-twin)**: A simple Streamlit chat application that lets you converse with a digital twin of Ray Dalio, powered by your Gaia Node (an OpenAI-compatible endpoint). 
 
 
 ### 🚀 Projects
@@ -122,6 +124,14 @@ Celo. [➡️ Deploy your own!](https://github.com/harishkotra/celo-token-agent)
 - **[Minerva](https://github.com/MinervaGov/minerva_main)**: Create your own AI agents who think like you and take decisions on DAO governance voting for you when you are away. Never miss another proposal and help your community grow with [Minerva](https://github.com/MinervaGov/minerva_main).
 - **[ResellChain](https://github.com/surajgjadhav/ResellChain)**: **ResellChain** is a decentralized marketplace leveraging **Gaia LLM** and **Eliza Framework** to provide **intelligent price predictions** and **personalized product recommendations**. By analyzing user queries and marketplace data, it ensures fair pricing and seamless discovery of resell products.
 - **[Gaia + OpenSearch](https://github.com/harishkotra/opensearch-gaia)**: This Streamlit app is a working demo that combines OpenSearch for fast, flexible search over airline reviews and Gaia (an OpenAI-compatible local LLM node) to generate intelligent insights based on query results.
+- **[StoryWeaver AI](https://github.com/harishkotra/story-weaver-ai)**: StoryWeaver AI is your creative co-pilot, helping you transform fledgling ideas into fully-formed stories. Generate unique characters, sculpt immersive worlds, and weave compelling plots with our intelligent storycrafting assistant. Built with Next.js, Tailwind CSS, shadcn/ui, and powered by Gaia's LLM API.
+- **[Gaia Multi-Agent PRD Generator](https://github.com/harishkotra/advisor-agents)**: Generate comprehensive Product Requirements Documents (PRDs) by consulting AI versions of legendary entrepreneurs: Elon Musk, Warren Buffet, Peter Thiel, and Steve Jobs.
+- **[MorphEcho - Decentralized Whispers](https://github.com/harishkotra/morph-echo-dapp)**: MorphEcho is a decentralized social platform that allows users to share ephemeral, AI-scrambled whispers as temporary NFTs on the Morph L2 blockchain.
+- **[QlooVoyage](https://github.com/harishkotra/qloovoyage)**: QlooVoyage, is an innovative travel planning application that redefines personalized discovery that uses Qloo's APIs and local LLM running on a Gaia Node for inference.
+- **[Approvr: On-Chain Consensus via Telegram](https://github.com/harishkotra/approvr)**: Approvr is a proof-of-concept system that harnesses the power of the Hedera Consensus Service (HCS) and AI agents to facilitate multi-party approvals directly through a Telegram bot. It provides a transparent, immutable, and verifiable way to record group decisions on-chain.
+- **[ProposalPal AI](https://github.com/harishkotra/proposalpal-ai)**: A dApp that simplifies participation in Cardano governance. Get instant, easy-to-understand AI summaries of complex Cardano Improvement Proposals (CIPs) using an LLM running a local Gaia Node, vote directly from your wallet, and track your engagement on the community leaderboard.
+- **[Veritas AI](https://github.com/harishkotra/veritas-ai)**: An AI-Powered On-Chain Analyst for the Cardano Ecosystem. Veritas AI transforms raw, complex blockchain data into clear, human-readable insights using an LLM running on a Gaia Node.
+- **[Gaia Flashcard Generator](https://github.com/harishkotra/ai-flashcards)**: A lightweight, AI-powered flashcard application that leverages Gaia Node capabilities to create personalized learning experiences. Transform any topic into interactive flashcards with markdown support and a beautiful, modern interface.
 
 [🔼 Back to top](#table-of-contents)
 
